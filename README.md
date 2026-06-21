@@ -10,9 +10,9 @@ The repository serves as a centralized location for deploying public-facing HTML
 
 | Project | Link |
 |----------|----------|
-| Lake House Tour Pre-Remodel | https://jkiventuresai.github.io/3Dsplats/tour-lake-jl.html |
-| Tour House | (Coming Soon) |
-| 3D Truck | (Coming Soon) |
+| Lake House Tour Pre-Remodel | [Video Link](https://jkiventuresai.github.io/3Dsplats/tour-lake-jl.html) |
+| Tour House | [Video Link](https://jkiventuresai.github.io/3Dsplats/tour-home.html) |
+| 3D Truck | [Video Link](https://jkiventuresai.github.io/3Dsplats/tour-truck.html) |
 | 3D EV Charge Station | (Coming Soon) |
 
 ---
