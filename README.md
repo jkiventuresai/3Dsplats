@@ -6,12 +6,14 @@ GitHub repository used to host and publish interactive 3D tours, digital walkthr
 
 The repository serves as a centralized location for deploying public-facing HTML projects that embed content from platforms such as Luma AI and other 3D visualization tools.
 
+## Project Directory
+
+| Project | Link |
+|----------|----------|
+| Lake House Tour Pre-Remodel | https://jkiventuresai.github.io/3Dsplats/tour-lake-jl.html |
+| Tour House | (Coming Soon) |
+| 3D Truck | (Coming Soon) |
+| 3D EV Charge Station | (Coming Soon) |
+
 ---
 
-## Directory
-
-| Project | Description | URL |
-|----------|-------------|-----|
-| Lake House Pre-Remodel | Captured prior to renovation .| [3D Tour Exterior](https://jkiventuresai.github.io/3Dsplats/tour-lake-jl.html) |
-
----
