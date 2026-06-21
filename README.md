@@ -1,5 +1,3 @@
-# 3Dspalrs
-
 ## Overview
 
 3Dspalrs is a lightweight GitHub Pages repository used to host and publish interactive 3D tours, digital walkthroughs, and immersive visual experiences.
